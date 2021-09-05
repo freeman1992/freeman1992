@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @freeman
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning networking in Unity. 
+- 📫 Reach me on my email freeman1992@gmail.com
