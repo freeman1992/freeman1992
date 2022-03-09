@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @freeman
-- 👀 I’m interested in game development.
-- 🌱 I work on my own game. 
-- 📫 Reach me on my email freeman1992@gmail.com
+- Unity 3D
+- Docker
+- Linux
+- Python
+- Web Development
+- Streaming
+- Gaming
