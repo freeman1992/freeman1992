@@ -1,6 +1,6 @@
 - [🚀] Unity
-- [🔨] Linux
-- [🛸] Docker
+- [🛸] Linux
+- [📦] Docker
 - [🔪] Python
 - [📐] Web
 - [🎮] Gaming & streaming
