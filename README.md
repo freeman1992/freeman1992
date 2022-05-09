@@ -1,1 +1,7 @@
-[🎮] Unity 3D, Docker, Linux, Python, Web Development, Streaming & Gaming
+- [🚀] Unity
+- [🔨] Linux
+- [🛸] Docker
+- [🔪] Python
+- [📐] Web
+- [🎮] Gaming & streaming
+- [📫] You can reach me on radek.cehak@foxapo.com
