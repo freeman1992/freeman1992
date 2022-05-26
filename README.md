@@ -6,4 +6,4 @@
 - [🔪] Python
 - [📐] Web
 - [🎮] Gaming & streaming
-- [📫] You can reach me on radek.cehak@foxapo.com
+- [📫] You can reach me on freeman@foxapo.com
